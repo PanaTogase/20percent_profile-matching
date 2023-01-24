@@ -101,6 +101,7 @@ export default function App(props: Props) {
         </Drawer>
       </Box>
       <Box component="main" sx={{ p: 3 }}>
+        <Toolbar />
         <Users />
       </Box>
     </Box>

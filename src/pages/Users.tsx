@@ -28,7 +28,7 @@ export default function Users(props: Props) {
   return (
     <Box sx={{ flexGrow: 1 }}>
       <Grid container spacing={{ xs: 2, md: 3 }} columns={{ xs: 4, sm: 8, md: 12 }}>
-        {Array.from(Array(12)).map((_, index) => (
+        {Array.from(Array(24)).map((_, index) => (
           <Grid xs={12} sm={4} md={3} key={index}>
             <UserCard />
           </Grid>

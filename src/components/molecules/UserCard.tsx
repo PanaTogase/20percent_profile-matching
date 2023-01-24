@@ -56,7 +56,7 @@ export default function UserCard() {
       <CardMedia
         component="img"
         height="194"
-        image="/static/images/cards/paella.jpg"
+        image="https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8JUU0JUJBJUJBJUU5JTk2JTkzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
         alt="Paella dish"
       />
       <CardContent>
